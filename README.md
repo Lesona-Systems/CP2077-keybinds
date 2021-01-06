@@ -30,14 +30,14 @@ Almost all of them. To avoid the ```None``` UI bug, try to be consistant and kee
 
 Most important thing item is to try not to leave anything unbound, as CP2077 doesn't seem to like that too much. For example, while you may never uses ```Sprint(toggle)```, bind it anyway away from your other keys.
 
- ___As a general rule, if a key is uses for two or more different inputs, replace them all with the same key.___
+ ___As a general rule, if a key is used for two or more different actions, replace them all with the same key.___
 
 For example, the included .xml mappings have rebound the game's use key from *"F"* to *"E"*. On top of being the game's activation key, "F" was also used in 32 other contexual actions, all of which have been rebound individually to the "E" key.
 
 ## What did __YOU__ rebind?
 
 All controls are now similar to Counter-Strike Global Offensive's usual bindings:
-| `button id` | "IK_MouseAlias" |
+| `button id` | "IK_keyAlias" |
 | --- | --- |
 | R | Reload |
 | MouseWheelDown | Jump |
