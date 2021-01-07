@@ -1,9 +1,13 @@
+Examples for the majority of binding id's are avaialable in the input table.
+
+// Arrow Keys
+
 Up Arrow -"IK_Up"
 Down Arrow - "IK_Down"
 Left Arrow  -  "IK_Left" 
 Right Arrow - "IK_Right"
 
-
+// Misc Keys
 Tab - "IK_Tab"
 Left Control - "IK_LControl"
 Right Control - "IK_RControl"
@@ -11,7 +15,7 @@ Left Shift - "IK_LShift"
 Right Shift - "IK_RShift"
 Escape - "IK_Escape"
 
-
+// Control Keys
 ( [ ) - "IK_LeftBracket"
 ( ] ) - "IK_RightBracket"
 ( ; ) - "IK_Semicolon"
@@ -23,7 +27,3 @@ Escape - "IK_Escape"
 ( \ ) - "IK_Backslash"
 ( - ) - "IK_Minus"
 ( = ) - "IK_Equals"
-
-
-
-Examples for the majority of binding id's are avaialable in the input table.
