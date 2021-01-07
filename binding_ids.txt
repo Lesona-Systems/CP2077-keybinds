@@ -4,24 +4,26 @@ Left Arrow  -  "IK_Left"
 Right Arrow - "IK_Right"
 
 
-IK_Tab
-IK_LControl
-IK_RControl
-IK_LShift
-IK_RShift
-IK_Escape
+Tab - "IK_Tab"
+Left Control - "IK_LControl"
+Right Control - "IK_RControl"
+Left Shift - "IK_LShift"
+Right Shift - "IK_RShift"
+Escape - "IK_Escape"
 
 
-[ - IK_LeftBracket
-] - IK_RightBracket
-; - IK_Semicolon
-~ - IK_Tilde
-'-  IK_SingleQuote
-, - IK_Comma
-. - IK_Period
-/ - IK_Slash
-\ - IK_Backslash
-(-) - IK_Minus
-(=)  -  IK_Equals
+( [ ) - "IK_LeftBracket"
+( ] ) - "IK_RightBracket"
+( ; ) - "IK_Semicolon"
+( ~ ) - "IK_Tilde"
+( ' ) - "IK_SingleQuote"
+( , ) - "IK_Comma"
+( . ) - "IK_Period"
+( / ) - "IK_Slash"
+( \ ) - "IK_Backslash"
+( - ) - "IK_Minus"
+( = ) - "IK_Equals"
+
+
 
 Examples for the majority of binding id's are avaialable in the input table.
